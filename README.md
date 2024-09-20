@@ -1,10 +1,8 @@
-## Hi there 👋
-
-# PORTFOLIO
+### PORTFOLIO
 [fer-rouco.github.io/portfolio/](https://fer-rouco.github.io/portfolio/)
 
-# MAIL
+### MAIL
 [rouco.fernando@gmail.com](mailto:rouco.fernando@gmail.com)
 
-# SOCIAL
+### SOCIAL
 [Linkedin](https://www.linkedin.com/in/fer-rouco)
